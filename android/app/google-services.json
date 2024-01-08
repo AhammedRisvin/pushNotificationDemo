@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318546450864",
+    "project_id": "pushnotitutorial-f6155",
+    "storage_bucket": "pushnotitutorial-f6155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318546450864:android:77f8e568e77eb2160ade75",
+        "android_client_info": {
+          "package_name": "com.example.pushnotidemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR94NKt6HYw-H6RM_zIdZu1aTQR9XPEBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
